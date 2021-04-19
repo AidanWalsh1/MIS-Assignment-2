@@ -1,5 +1,5 @@
-# MIS-Assignment-2
-MIS Assignment 2- HTML
+# MIS Assignment 2
 
 Hello!
+
 My name is Aidan Walsh, welcome to my site!
