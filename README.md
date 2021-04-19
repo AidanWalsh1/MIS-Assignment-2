@@ -2,4 +2,4 @@
 
 <h1 style="text-align: center;">My name is Aidan Walsh, welcome to my site!</h1>
 
-<p><strong>About Me</strong></p>
+<h1 style="text-align: center;"><p><strong>About Me</strong></p></h1>
