@@ -1,6 +1,6 @@
 # MIS Assignment 2
 
-<h1 style="text-align: center;">My name is Aidan Walsh, welcome to my site!</h1>
+<h1 style="text-align:center;">My name is Aidan Walsh, welcome to my site!</h1>
 
 <center><img src="https://pbs.twimg.com/profile_images/1276154720659353600/pQFnNKKo.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 
