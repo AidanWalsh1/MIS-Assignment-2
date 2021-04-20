@@ -11,3 +11,8 @@
 <p style="text-align: center;"><a href="https://www.espn.com/">Click Here</a> to go to my favorite site!</p>
 
 <body bgcolor ="6cc644">
+
+</body>
+
+<hr />
+</html>
