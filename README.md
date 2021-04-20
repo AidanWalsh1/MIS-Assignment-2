@@ -11,4 +11,4 @@
 <h3 style="text-align: center;"><p><strong>My favorite website</strong></p></h3>
 <p style="text-align: center;"><a href="https://www.espn.com/">Click Here</a> to go to my favorite site!</p>
 
-<body bgcolor = "Lightorange">
+<body bgcolor = "LightOrange">
